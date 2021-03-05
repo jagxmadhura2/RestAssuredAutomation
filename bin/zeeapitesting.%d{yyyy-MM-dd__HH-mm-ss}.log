@@ -1,0 +1,12 @@
+printing payload{"password":"secret","email":"jagadeeshmadhura2@gmail.com"}
+{
+    "name": "morpheus",
+    "job": "leader"
+}
+
+201
+User registration created succcessfully
+200
+User updated using put method succcessfully
+200
+User updated using patch method succcessfully
